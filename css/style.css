@@ -6,7 +6,13 @@
     color: violet;
     font-size: 80px;
 } */
-p{
-    color: violet;
-    font-size: 80px;
+
+body {
+    padding-bottom: 500px;
+}
+
+.paragrah{
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
 }
